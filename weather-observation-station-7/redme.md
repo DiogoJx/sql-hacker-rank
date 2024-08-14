@@ -1,4 +1,4 @@
-Query the list of City names stating with vowels (a, e, i, o, u) Your result cannot contain duplicates.
+Query the list of City names edinting with vowels (a, e, i, o, u) Your result cannot contain duplicates.
 
 Input Format
 
