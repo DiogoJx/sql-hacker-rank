@@ -46,5 +46,5 @@ Este projeto é para fins educacionais e não possui uma licença específica. U
 
 ---
 
-Se você tiver dúvidas ou precisar de assistência, entre em contato comigo através do [seu-email@example.com](mailto:seu-email@example.com).
+Se você tiver dúvidas ou precisar de assistência, entre em contato comigo através do [diogo.eng.eletronic@gmail.com](mailto:diogo.eng.eletronic@gmail.com).
 
